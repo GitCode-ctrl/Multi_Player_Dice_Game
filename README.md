@@ -1,17 +1,16 @@
-🎲 Dice Game - Python Console Project
-
+Dice Game - Python Console Project:
 This is a simple command-line dice game written in Python for 1 to 4 players. 
 Each player takes turns rolling a die, and the first to reach or exceed **50 points** wins the game. 
 If you roll a **1**, your turn ends and you lose all points from that turn.
 
-🚀 Features
+Features:
 - Supports **1 to 4 players**
 - Turn-based gameplay
 - Random dice rolls (1 to 6)
 - Ends when a player hits **50 points**
 - Simple input validation and instructions
 
-🛠️ How to Run
+How to Run:
 1. Make sure you have **Python 3** installed.
 2. Clone this repo or copy the code into a file named `dice_game.py`.
 3. Run it using your terminal:
